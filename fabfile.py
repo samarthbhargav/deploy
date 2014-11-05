@@ -1,4 +1,8 @@
-from general.python import install_python27, install_py_science, install_py_sklearn, install_py_mongo
+
+from lang import *
+
+
+
 
 from fabric.api import env
 
